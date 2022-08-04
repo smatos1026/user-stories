@@ -15,3 +15,8 @@ trim_trailing_whitespace = true
 [*.md]
 trim_trailing_whitespace = false
 max_line_length = 80
+**User Stories**
+#Phase II Is Here
+**Need a comment section**
+**Need a button to select a gender**
+**Male** **Female**
